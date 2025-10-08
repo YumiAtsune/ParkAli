@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ParkAli/static/css/main.169e86d9.css",
+    "main.js": "/ParkAli/static/js/main.774265ad.js",
+    "index.html": "/ParkAli/index.html",
+    "main.169e86d9.css.map": "/ParkAli/static/css/main.169e86d9.css.map",
+    "main.774265ad.js.map": "/ParkAli/static/js/main.774265ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.169e86d9.css",
+    "static/js/main.774265ad.js"
+  ]
+}
